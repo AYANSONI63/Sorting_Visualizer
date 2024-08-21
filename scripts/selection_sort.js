@@ -1,6 +1,6 @@
 /*
     *****************
-    DONE BY:-   TUMMALA KETHAN
+    DONE BY:-   AYAN SONI
     
     *****************
 */
@@ -61,7 +61,7 @@ function Selection_sort()
 
 /*
     *****************
-    DONE BY:-   TUMMALA KETHAN
+    DONE BY:-   AYAN SONI
     
     *****************
 */
